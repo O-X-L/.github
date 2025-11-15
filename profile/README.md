@@ -6,6 +6,6 @@ We want to contribute useful tools and software-solutions as FOSS so organizatio
 
 <p align="center">
     <a title="Support our Projects (Donate, Support-Licenses)" href="https://shop.oxl.app/collections/open-source">
-        <img src="https://files.oxl.at/img/badge-oss-support.svg" alt="Support Badge (Donate, Support-Licenses)"/>
+        <img src="https://files.oxl.at/img/badge-oss-support-multi.svg" alt="Support Badge (Donate, Support-Licenses)"/>
     </a>
 </p>
