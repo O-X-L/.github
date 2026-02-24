@@ -1,6 +1,6 @@
 # ~~OXL IT Services~~
 
-**INFO**: The company "OXL IT Services" was discontinued. These projects are now maintained by [Rath Pascal](https://github.com/superstes)
+**INFO**: The company "OXL IT Services" was discontinued. These projects are now maintained by [Rath Pascal](https://github.com/superstes).
 
 Open-Source-Software is an important part of todays IT ecosystem.
 
@@ -8,4 +8,4 @@ We are an open-source software company developing IT-security and network automa
 
 We're driven by our belief in the positive impact of open-source projects.
 
-
+Contributions are welcome.
