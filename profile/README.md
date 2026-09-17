@@ -9,3 +9,5 @@ Contributions are welcome. But please add an AI-notice to PR's if you used LLM's
 ----
 
 These projects are maintained by [Rath Pascal](https://github.com/superstes).
+
+Active repositories can also be found at: [Codeberg](https://codeberg.org/OXL/)
